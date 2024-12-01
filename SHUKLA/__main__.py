@@ -31,13 +31,13 @@ filters.command("start")
 )
 async def start_command(client, message: Message):
   await message.reply_photo(
-                            photo = f"https://graph.org/file/e2ea01d5ee83d104615c1.jpg",
-                            caption = f"ʜᴇʏ ɪᴍ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴠᴇʀʏ ᴘᴏᴡᴇʀ ғᴜʟʟ\n\nᴀɴʏ ɢʀᴘ ᴄᴀɴ ʙʟᴏᴡ ᴜᴘ ɪɴ ᴊᴜsᴛ ᴀ ғᴇᴠ sᴇᴄᴏɴᴅs\n\nᴀᴅᴅ ᴍᴇ ᴀɴʏ ɢʀᴘ ᴀɴᴅ ɢɪᴠᴇ ʙᴀɴ ᴘᴏᴡᴇʀ\n\nᴛʏᴘᴇ /banall ᴛᴏ sᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴘ\n\nᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [sᴛʀᴀɴɢᴇʀ](https://t.me/SHIVANSH474)",
+                            photo = f"https://files.catbox.moe/psyevn.jpg",
+                            caption = f"❖ ʜᴇʏ ɪᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀ-ғᴜʟʟ ʙᴀɴᴀʟʟ ʙᴏᴛ\n\n❖ ᴀɴʏ ɢʀᴘ ᴄᴀɴ ʙʟᴏᴡ ᴜᴘ ɪɴ ᴊᴜsᴛ ᴀ ғᴇᴠ sᴇᴄᴏɴᴅs\n\n❖ ᴀᴅᴅ ᴍᴇ ᴀɴʏ ɢʀᴘ ᴀɴᴅ ɢɪᴠᴇ ʙᴀɴ ᴘᴏᴡᴇʀ\n\n❖ ᴛʏᴘᴇ /banall ᴛᴏ sᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴘ\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [ᴄᴡʜ-ᴏғғɪᴄɪᴀʟ](https://t.me/CWH_Official)",
   reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")
+                        "▪️ᴏᴡɴᴇʀ▪️", url=f"https://t.me/{OWNER}")
                 ]       
            ]
       )
